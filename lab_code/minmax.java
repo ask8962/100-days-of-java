@@ -1,3 +1,4 @@
+package lab_code;
 import java.util.Arrays;
 
 public class minmax {

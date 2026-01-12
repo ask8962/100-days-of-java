@@ -1,3 +1,4 @@
+package pw_dsa;
 import java.util.Scanner;
 
 public class evenodd {

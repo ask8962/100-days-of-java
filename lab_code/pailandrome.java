@@ -1,3 +1,4 @@
+package lab_code;
 public class pailandrome {
     public static void main(String[] args) {
         String s = "1215";
